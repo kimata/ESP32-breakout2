@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ESP32")(type "Legacy")(uri "${KIPRJMOD}/lib/ESP32-footprints-Shem-Lib.lib")(options "")(descr ""))
+  (lib (name "Akizuki")(type "Legacy")(uri "${KIPRJMOD}/lib/nosuz.lib")(options "")(descr ""))
+  (lib (name "Local")(type "KiCad")(uri "${KIPRJMOD}/lib/Local.kicad_sym")(options "")(descr ""))
+)
